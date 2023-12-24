@@ -17,3 +17,4 @@ In seguito vengono mostrati due istogrammi relativi alla metallicità delle stel
 Infine è stata graficata la metallicità in funzione della massa per le stesse popolazioni stellari di prima; 
 per rendere più chiara la comprensione dei dati che si sovrappongono vengono mostrati i grafici delle tre popolazioni stellari separatamente ma in un'unica immagine, questo permette un confronto diretto tra di loro e con il grafico complessivo.
 
+# EsameAbInfoClaudiaMurro
