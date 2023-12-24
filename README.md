@@ -18,3 +18,4 @@ Infine è stata graficata la metallicità in funzione della massa per le stesse 
 per rendere più chiara la comprensione dei dati che si sovrappongono vengono mostrati i grafici delle tre popolazioni stellari separatamente ma in un'unica immagine, questo permette un confronto diretto tra di loro e con il grafico complessivo.
 
 # EsameAbInfoClaudiaMurro
+# EsameAbInfoClaudiaMurro
